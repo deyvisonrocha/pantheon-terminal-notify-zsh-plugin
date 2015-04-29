@@ -4,7 +4,7 @@ background notifications for long running commands! Supports Elementary OS Freya
 
 ### Package from [t413/zsh-background-notify](https://github.com/t413/zsh-background-notify)
 
-Standalone homepage: [deyvisonrocha/zsh-pantheon-terminal-notify](https://github.com/deyvisonrocha/zsh-pantheon-terminal-notify)
+Standalone homepage: [deyvisonrocha/zsh-pantheon-terminal-notify-zsh-plugin](https://github.com/deyvisonrocha/zsh-pantheon-terminal-notify-zsh-plugin)
 
 ----------------------------------
 
